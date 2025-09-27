@@ -8,6 +8,7 @@ const medicineSchema = new mongoose.Schema({
   price: Number,
   stock: Number,
   description: String,
+  image: String,
 });
 
 export default mongoose.model("medicine", medicineSchema);

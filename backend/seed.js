@@ -8,10 +8,12 @@ import pathology from "../data/pathology.json" assert { type: "json" };
 import radiology from "../data/radiology.json" assert { type: "json" };
 
 dotenv.config();
-mongoose.connect(process.env.MONGO_URI);
 
 const importData = async () => {
   try {
+    await mongoose.connect(process.env.MONGO_URI);
+    console.log("DB Connected for seeding");
+
     await Medicine.deleteMany();
     await PathologyTest.deleteMany();
     await RadiologyTest.deleteMany();

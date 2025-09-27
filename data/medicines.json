@@ -6,7 +6,8 @@
     "dosage": "500mg",
     "price": 20,
     "stock": 100,
-    "description": "Used for fever and pain"
+    "description": "Used for fever and pain",
+    "image": "https://onemg.gumlet.io/l_watermark_346,w_150,h_150/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/cropped/mu5bahqxfrp28cut6que.jpg"
   },
   {
     "name": "Azithromycin",
@@ -15,7 +16,8 @@
     "dosage": "250mg",
     "price": 120,
     "stock": 50,
-    "description": "Antibiotic for infections"
+    "description": "Antibiotic for infections",
+    "image": "https://onemg.gumlet.io/l_watermark_346,w_150,h_150/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/cropped/mu5bahqxfrp28cut6que.jpg"
   },
   {
     "name": "Ibuprofen",
@@ -24,7 +26,8 @@
     "dosage": "400mg",
     "price": 35,
     "stock": 70,
-    "description": "Pain reliever"
+    "description": "Pain reliever",
+    "image": "https://onemg.gumlet.io/l_watermark_346,w_150,h_150/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/cropped/mu5bahqxfrp28cut6que.jpg"
   },
   {
     "name": "Cough Syrup",
@@ -33,7 +36,8 @@
     "dosage": "10ml",
     "price": 45,
     "stock": 60,
-    "description": "For cough relief"
+    "description": "For cough relief",
+    "image": "https://onemg.gumlet.io/l_watermark_346,w_150,h_150/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/cropped/mu5bahqxfrp28cut6que.jpg"
   },
   {
     "name": "Vitamin C",
@@ -42,7 +46,8 @@
     "dosage": "500mg",
     "price": 25,
     "stock": 80,
-    "description": "Immune booster"
+    "description": "Immune booster",
+    "image": "https://onemg.gumlet.io/l_watermark_346,w_150,h_150/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/cropped/mu5bahqxfrp28cut6que.jpg"
   },
   {
     "name": "Metformin",
@@ -51,7 +56,8 @@
     "dosage": "500mg",
     "price": 50,
     "stock": 90,
-    "description": "Diabetes treatment"
+    "description": "Diabetes treatment",
+    "image": "https://onemg.gumlet.io/l_watermark_346,w_150,h_150/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/cropped/mu5bahqxfrp28cut6que.jpg"
   },
   {
     "name": "Amoxicillin",
@@ -60,7 +66,8 @@
     "dosage": "500mg",
     "price": 80,
     "stock": 40,
-    "description": "Antibiotic"
+    "description": "Antibiotic",
+    "image": "https://onemg.gumlet.io/l_watermark_346,w_150,h_150/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/cropped/mu5bahqxfrp28cut6que.jpg"
   },
   {
     "name": "Cetirizine",
@@ -69,7 +76,8 @@
     "dosage": "10mg",
     "price": 15,
     "stock": 120,
-    "description": "Allergy relief"
+    "description": "Allergy relief",
+    "image": "https://onemg.gumlet.io/l_watermark_346,w_150,h_150/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/cropped/mu5bahqxfrp28cut6que.jpg"
   },
   {
     "name": "Omeprazole",
@@ -78,7 +86,8 @@
     "dosage": "20mg",
     "price": 45,
     "stock": 70,
-    "description": "Acid reflux treatment"
+    "description": "Acid reflux treatment",
+    "image": "https://onemg.gumlet.io/l_watermark_346,w_150,h_150/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/cropped/mu5bahqxfrp28cut6que.jpg"
   },
   {
     "name": "Dolo 650",
@@ -87,6 +96,7 @@
     "dosage": "650mg",
     "price": 18,
     "stock": 150,
-    "description": "Pain & fever relief"
+    "description": "Pain & fever relief",
+    "image": "https://onemg.gumlet.io/l_watermark_346,w_150,h_150/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/cropped/mu5bahqxfrp28cut6que.jpg"
   }
 ]

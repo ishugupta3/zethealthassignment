@@ -22,14 +22,15 @@ mongoose.connect(process.env.MONGO_URI)
   .then(() => console.log(" DB Connected"))
   .catch(err => console.log("DB Error:", err));
 
-const PORT = process.env.PORT || 5000;
-app.get("/", (req, res) => {
-    res.send("Server is running...");
-});
-
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 app.use("/api/medicines", medicineRoutes);
 app.use("/api/orders", orderRoutes);
 app.use("/api/tests/pathology", pathologyRoutes);
 app.use("/api/tests/radiology", radiologyRoutes);
 app.use("/api/bookings", bookingRoutes);
+
+app.get("/", (req, res) => {
+    res.send("Server is running...");
+});
+
+const PORT = process.env.PORT || 5000;
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
