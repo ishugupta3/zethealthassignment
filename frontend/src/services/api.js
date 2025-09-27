@@ -25,8 +25,9 @@ export const getOrderById = async (id) => {
   return res.json();
 };
 
-export const getPathologyTests = async () => {
-  const res = await fetch(`${API_URL}/tests/pathology`);
+export const getPathologyTests = async (search = "") => {
+  const url = search ? `${API_URL}/tests/pathology?search=${encodeURIComponent(search)}` : `${API_URL}/tests/pathology`;
+  const res = await fetch(url);
   return res.json();
 };
 
@@ -39,8 +40,9 @@ export const bookPathology = async (booking) => {
   return res.json();
 };
 
-export const getRadiologyTests = async () => {
-  const res = await fetch(`${API_URL}/tests/radiology`);
+export const getRadiologyTests = async (search = "") => {
+  const url = search ? `${API_URL}/tests/radiology?search=${encodeURIComponent(search)}` : `${API_URL}/tests/radiology`;
+  const res = await fetch(url);
   return res.json();
 };
 
