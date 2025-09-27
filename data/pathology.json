@@ -1,0 +1,12 @@
+[
+  { "name": "Blood Sugar", "price": 150, "sampleType": "Blood", "resultTime": "24 hrs" },
+  { "name": "Thyroid Profile", "price": 400, "sampleType": "Blood", "resultTime": "48 hrs" },
+  { "name": "Complete Blood Count", "price": 200, "sampleType": "Blood", "resultTime": "24 hrs" },
+  { "name": "Liver Function Test", "price": 350, "sampleType": "Blood", "resultTime": "48 hrs" },
+  { "name": "Kidney Function Test", "price": 300, "sampleType": "Blood", "resultTime": "48 hrs" },
+  { "name": "Lipid Profile", "price": 450, "sampleType": "Blood", "resultTime": "48 hrs" },
+  { "name": "Urine Routine", "price": 120, "sampleType": "Urine", "resultTime": "12 hrs" },
+  { "name": "Blood Urea Nitrogen", "price": 220, "sampleType": "Blood", "resultTime": "24 hrs" },
+  { "name": "Vitamin D Test", "price": 800, "sampleType": "Blood", "resultTime": "72 hrs" },
+  { "name": "Hemoglobin A1c", "price": 500, "sampleType": "Blood", "resultTime": "48 hrs" }
+]

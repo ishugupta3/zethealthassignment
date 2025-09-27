@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Paracetamol",
+    "brand": "Cipla",
+    "form": "tablet",
+    "dosage": "500mg",
+    "price": 20,
+    "stock": 100,
+    "description": "Used for fever and pain"
+  },
+  {
+    "name": "Azithromycin",
+    "brand": "Sun Pharma",
+    "form": "tablet",
+    "dosage": "250mg",
+    "price": 120,
+    "stock": 50,
+    "description": "Antibiotic for infections"
+  },
+  {
+    "name": "Ibuprofen",
+    "brand": "Bayer",
+    "form": "tablet",
+    "dosage": "400mg",
+    "price": 35,
+    "stock": 70,
+    "description": "Pain reliever"
+  },
+  {
+    "name": "Cough Syrup",
+    "brand": "Dabur",
+    "form": "syrup",
+    "dosage": "10ml",
+    "price": 45,
+    "stock": 60,
+    "description": "For cough relief"
+  },
+  {
+    "name": "Vitamin C",
+    "brand": "HealthVit",
+    "form": "tablet",
+    "dosage": "500mg",
+    "price": 25,
+    "stock": 80,
+    "description": "Immune booster"
+  },
+  {
+    "name": "Metformin",
+    "brand": "Sun Pharma",
+    "form": "tablet",
+    "dosage": "500mg",
+    "price": 50,
+    "stock": 90,
+    "description": "Diabetes treatment"
+  },
+  {
+    "name": "Amoxicillin",
+    "brand": "Cipla",
+    "form": "capsule",
+    "dosage": "500mg",
+    "price": 80,
+    "stock": 40,
+    "description": "Antibiotic"
+  },
+  {
+    "name": "Cetirizine",
+    "brand": "Zydus",
+    "form": "tablet",
+    "dosage": "10mg",
+    "price": 15,
+    "stock": 120,
+    "description": "Allergy relief"
+  },
+  {
+    "name": "Omeprazole",
+    "brand": "Dr. Reddy's",
+    "form": "capsule",
+    "dosage": "20mg",
+    "price": 45,
+    "stock": 70,
+    "description": "Acid reflux treatment"
+  },
+  {
+    "name": "Dolo 650",
+    "brand": "Micro Labs",
+    "form": "tablet",
+    "dosage": "650mg",
+    "price": 18,
+    "stock": 150,
+    "description": "Pain & fever relief"
+  }
+]

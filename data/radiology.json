@@ -1,0 +1,12 @@
+[
+  { "name": "X-Ray Chest", "price": 300, "labName": "Apollo Lab", "availableSlots": ["10 AM", "2 PM"] },
+  { "name": "MRI Brain", "price": 3000, "labName": "Fortis Lab", "availableSlots": ["11 AM", "4 PM"] },
+  { "name": "CT Scan Abdomen", "price": 2500, "labName": "Medanta Lab", "availableSlots": ["9 AM", "1 PM"] },
+  { "name": "Ultrasound Abdomen", "price": 800, "labName": "Max Healthcare", "availableSlots": ["10 AM", "3 PM"] },
+  { "name": "X-Ray Spine", "price": 400, "labName": "Apollo Lab", "availableSlots": ["12 PM", "4 PM"] },
+  { "name": "MRI Spine", "price": 3500, "labName": "Fortis Lab", "availableSlots": ["11 AM", "5 PM"] },
+  { "name": "CT Scan Brain", "price": 2800, "labName": "Medanta Lab", "availableSlots": ["9 AM", "2 PM"] },
+  { "name": "Ultrasound Pelvis", "price": 900, "labName": "Max Healthcare", "availableSlots": ["10 AM", "1 PM"] },
+  { "name": "Mammography", "price": 1200, "labName": "Apollo Lab", "availableSlots": ["11 AM", "3 PM"] },
+  { "name": "DEXA Scan", "price": 1500, "labName": "Fortis Lab", "availableSlots": ["9 AM", "4 PM"] }
+]
