@@ -1,8 +1,14 @@
 import mongoose from "mongoose";
 
 const orderSchema = new mongoose.Schema({
-  medicines: [{ type: mongoose.Schema.Types.ObjectId, ref: "Medicine" }],
-  totalPrice: Number,
+  medicines: [{
+    medicine: { type: mongoose.Schema.Types.ObjectId, ref: "medicine", required: true },
+    quantity: { type: Number, required: true, min: 1 }
+  }],
+  totalPrice: { type: Number, required: true },
+  name: { type: String, required: true },
+  phone: { type: String, required: true },
+  address: { type: String, required: true },
   orderDate: { type: Date, default: Date.now }
 });
 
