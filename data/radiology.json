@@ -1,12 +1,12 @@
 [
-  { "name": "X-Ray Chest", "price": 300, "labName": "Apollo Lab", "availableSlots": ["10 AM", "2 PM"] },
-  { "name": "MRI Brain", "price": 3000, "labName": "Fortis Lab", "availableSlots": ["11 AM", "4 PM"] },
-  { "name": "CT Scan Abdomen", "price": 2500, "labName": "Medanta Lab", "availableSlots": ["9 AM", "1 PM"] },
-  { "name": "Ultrasound Abdomen", "price": 800, "labName": "Max Healthcare", "availableSlots": ["10 AM", "3 PM"] },
-  { "name": "X-Ray Spine", "price": 400, "labName": "Apollo Lab", "availableSlots": ["12 PM", "4 PM"] },
-  { "name": "MRI Spine", "price": 3500, "labName": "Fortis Lab", "availableSlots": ["11 AM", "5 PM"] },
-  { "name": "CT Scan Brain", "price": 2800, "labName": "Medanta Lab", "availableSlots": ["9 AM", "2 PM"] },
-  { "name": "Ultrasound Pelvis", "price": 900, "labName": "Max Healthcare", "availableSlots": ["10 AM", "1 PM"] },
-  { "name": "Mammography", "price": 1200, "labName": "Apollo Lab", "availableSlots": ["11 AM", "3 PM"] },
-  { "name": "DEXA Scan", "price": 1500, "labName": "Fortis Lab", "availableSlots": ["9 AM", "4 PM"] }
+  { "name": "X-Ray Chest", "price": 300, "labName": "Apollo Lab", "availableSlots": ["10 AM", "2 PM"], "image":"https://my.clevelandclinic.org/-/scassets/images/org/health/articles/10228-chest-x-ray" },
+  { "name": "MRI Brain", "price": 3000, "labName": "Fortis Lab", "availableSlots": ["11 AM", "4 PM"] , "image":"https://www.radiologyinfo.org/-/media/radinfo/gallery-items/images/n-to-q/patient-undergoing-mri-philips6.jpg?rev=74a470043afd47958f627286ed50f45f&hash=705231810CD07E9A4DECE8267585900A"},
+  { "name": "CT Scan Abdomen", "price": 2500, "labName": "Medanta Lab", "availableSlots": ["9 AM", "1 PM"] , "image":"https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/computed-tomography-ct-or-cat-scan-of-the-abdomen"},
+  { "name": "Ultrasound Abdomen", "price": 800, "labName": "Max Healthcare", "availableSlots": ["10 AM", "3 PM"] , "image":"https://my.clevelandclinic.org/-/scassets/images/org/health/articles/4994-abdominal-ultrasound" },
+  { "name": "X-Ray Spine", "price": 400, "labName": "Apollo Lab", "availableSlots": ["12 PM", "4 PM"] , "image":"https://www.hopkinsmedicine.org/-/media/images/health/2_-treatment/orthopedics/minimally-invasive-lumbar-discectomy-teaser.jpg?h=217&iar=0&mh=260&mw=380&w=380&hash=3155E82D4A9247E3434AACEF9E428ABE"},
+  { "name": "MRI Spine", "price": 3500, "labName": "Fortis Lab", "availableSlots": ["11 AM", "5 PM"] , "image":"https://kidshealth.org/content/dam/patientinstructions/en/images/mri-400x400-rd1-enIL.gif"},
+  { "name": "CT Scan Brain", "price": 2800, "labName": "Medanta Lab", "availableSlots": ["9 AM", "2 PM"] , "image":"https://www.hopkinsmedicine.org/-/media/images/health/2_-treatment/neurology/getimage-(15).png?h=265&iar=0&mh=360&mw=520&w=175&hash=E75C7F8FA9DD421328CBEB6CD1EE0859"},
+  { "name": "Ultrasound Pelvis", "price": 900, "labName": "Max Healthcare", "availableSlots": ["10 AM", "1 PM"] , "image":"https://www.hopkinsmedicine.org/-/media/images/health/2_-treatment/gynecology/fts-and-nt-thumb.jpg?h=217&iar=0&mh=260&mw=380&w=380&hash=99A2762D2DCD02434C838CB9697CE09C"},
+  { "name": "Mammography", "price": 1200, "labName": "Apollo Lab", "availableSlots": ["11 AM", "3 PM"] , "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fprolifecancercentre.co.in%2Feverything-you-need-to-know-about-mammography%2F&psig=AOvVaw1eWEh7O5zTC_MSCdZkqwEC&ust=1759067566791000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjX4sOL-Y8DFQAAAAAdAAAAABAE"},
+  { "name": "DEXA Scan", "price": 1500, "labName": "Fortis Lab", "availableSlots": ["9 AM", "4 PM"] , "image":"https://my.clevelandclinic.org/-/scassets/images/org/health/articles/dexa-bone-density"}
 ]

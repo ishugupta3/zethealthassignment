@@ -4,7 +4,9 @@ const pathologySchema = new mongoose.Schema({
   name: String,
   price: Number,
   sampleType: String,
-  resultTime: String
+  resultTime: String,
+  image: String,
+  
 });
 
 export default mongoose.model("pathologyTest", pathologySchema);

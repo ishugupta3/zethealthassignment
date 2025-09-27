@@ -4,7 +4,8 @@ const radiologySchema = new mongoose.Schema({
   name: String,
   price: Number,
   labName: String,
-  availableSlots: [String]  // ["10 AM", "2 PM"]
+  availableSlots: [String],  // ["10 AM", "2 PM"]
+  image: String,
 });
 
 export default mongoose.model("RadiologyTest", radiologySchema);
