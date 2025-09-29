@@ -98,7 +98,7 @@ export default function Home() {
             <Link to="/medicines" className="bg-blue-500 text-white px-6 py-2 rounded hover:bg-blue-600">Medicines</Link>
             <Link to="/pathology" className="bg-green-500 text-white px-6 py-2 rounded hover:bg-green-600">Pathology Tests</Link>
             <Link to="/radiology" className="bg-purple-500 text-white px-6 py-2 rounded hover:bg-purple-600">Radiology Tests</Link>
-            <Link to="/cart" className="bg-orange-500 text-white px-6 py-2 rounded hover:bg-orange-600">Cart</Link>
+            <Link to="/cart" className="bg-orange-500 text-white px-6 py-2 rounded hover:bg-orange-600">Cart..</Link>
             <Link to="/bookings" className="bg-red-500 text-white px-6 py-2 rounded hover:bg-red-600">My Bookings</Link>
           </div>
         </div>

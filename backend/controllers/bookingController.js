@@ -1,20 +1,14 @@
 import Booking from "../models/booking.js";
 
-// Placeholder function for sending WhatsApp message
-const sendWhatsAppMessage = (phone, message) => {
-  // In a real implementation, integrate with WhatsApp API (e.g., Twilio, 360Dialog)
-  console.log(`Sending WhatsApp to ${phone}: ${message}`);
-  // Simulate success
-  return true;
-};
+
+
 
 export const bookPathology = async (req, res) => {
   try {
     const { testType, testId, name, phone, slot } = req.body;
     const booking = new Booking({ testType, testId, name, phone, slot });
     const savedBooking = await booking.save();
-    const message = `Booking confirmed for Pathology Test. Name: ${name}, Slot: ${slot}, Booking ID: ${savedBooking._id}`;
-    sendWhatsAppMessage(phone, message);
+    // const message = `Booking confirmed for Pathology Test. Name: ${name}, Slot: ${slot}, Booking ID: ${savedBooking._id}`;
     res.status(201).json({ bookingId: savedBooking._id, message: "Pathology test booked successfully" });
   } catch (err) {
     res.status(500).json({ message: err.message });
@@ -26,8 +20,7 @@ export const bookRadiology = async (req, res) => {
     const { testType, testId, name, phone, slot } = req.body;
     const booking = new Booking({ testType, testId, name, phone, slot });
     const savedBooking = await booking.save();
-    const message = `Booking confirmed for Radiology Test. Name: ${name}, Slot: ${slot}, Booking ID: ${savedBooking._id}`;
-    sendWhatsAppMessage(phone, message);
+    // const message = `Booking confirmed for Radiology Test. Name: ${name}, Slot: ${slot}, Booking ID: ${savedBooking._id}`;
     res.status(201).json({ bookingId: savedBooking._id, message: "Radiology test booked successfully" });
   } catch (err) {
     res.status(500).json({ message: err.message });
