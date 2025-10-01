@@ -4,6 +4,7 @@ import { CartProvider } from "./context/CartContext";
 import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Medicines from "./pages/Medicines";
+import MedicineDetail from "./pages/MedicineDetail";
 import Cart from "./pages/Cart";
 import OrderConfirmation from "./pages/OrderConfirmation";
 import Pathology from "./pages/Pathology";
@@ -20,6 +21,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/medicines" element={<Medicines />} />
+            <Route path="/medicine/:id" element={<MedicineDetail />} />
             <Route path="/cart" element={<Cart />} />
             <Route path="/confirmation/:id" element={<OrderConfirmation />} />
             <Route path="/pathology" element={<Pathology />} />

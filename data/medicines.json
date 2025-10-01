@@ -1,102 +1,529 @@
 [
   {
-    "name": "Paracetamol",
-    "brand": "Cipla",
-    "form": "tablet",
-    "dosage": "500mg",
-    "price": 20,
+    "name": "P 100 Drop",
+    "brand": "Apex Laboratories Pvt Ltd",
+    "form": "Oral Suspension",
+    "dosage": "100mg/ml",
+    "price": 28,
     "stock": 100,
-    "description": "Used for fever and pain",
-    "image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/yvcsl6mcrektaznzfq3m.jpg"
+    "description": "P 100 Drop is a prescribed medicine used to ease pain and reduce high body temperature (fever) in children. It treats conditions like headache, toothache, body aches, and fever. It works by blocking chemical messengers in the brain that signal pain and fever.",
+    "image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/yymof3dk3gi01xsijbgt.jpg"
+},
+  {
+    "name": "Combo Pack of Volini Spray & Saridon Advance Tablet",
+    "brand": "Sun Pharmaceutical Industries Ltd & Bayer Pharmaceuticals Pvt Ltd",
+    "form": "Spray + Tablet",
+    "dosage": "Volini Spray (100gm) + Saridon Advance Tablet (10 tablets)",
+    "price": 384,
+    "stock": 100,
+    "description": "Ye combo pack Volini Spray (for sprain, muscle & joint pain) aur Saridon Advance Tablet (for 5 in 1 pain relief) ka combination hai. Volini Spray instant pain relief deta hai for muscle pain, sprain, back pain etc. Saridon Tablet severe headache, neck pain, back pain, toothache, aur flu-like symptoms me relief provide karta hai. Dono products milke fast aur effective pain management dete hain.",
+    "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/49cdde8caf464b62bb187875d93bdc7c.jpg"
+}
+,
+  {
+    "name": "Zinconia 50 Tablet",
+    "brand": "Zuventus Healthcare Ltd",
+    "form": "Tablet",
+    "dosage": "50mg Zinc Acetate",
+    "price": 58,
+    "stock": 100,
+    "description": "Zinconia 50 Tablet ek nutritional supplement hai jo zinc deficiency treat karta hai. Ye immune system improve karta hai, wound healing me help karta hai aur body growth aur development me contribute karta hai. Common side effects me abdominal pain, indigestion, nausea, vomiting, aur diarrhea shamil hain.",
+    "image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/dprqiz06taqv7py8okfo.jpg"
+},
+  {
+  "name": "RH-Cal Tablet",
+  "brand": "Rayon Medicare Pvt. Ltd",
+  "form": "tablet",
+  "dosage": "Calcium citrate malate, Magnesium, Zinc, Vitamin D3",
+  "price": 80,
+  "stock": 50,
+  "description": "Deals with vitamin D and calcium deficiencies, supports healthy bones and teeth, helps in cell growth.",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/b4mwpaedxzequoty5lfw.jpg"
+},
+ {
+  "name": "Parazex XT 650mg Tablet",
+  "brand": "Zeelab Pharmacy Pvt Ltd",
+  "form": "tablet",
+  "dosage": "650mg",
+  "price": 13,
+  "stock": 50,
+  "description": "Pain reliever and fever reducer used for headaches, toothaches, sore throats, menstrual pains, arthritis, muscle aches, and common cold.",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/z0a4sxelwenativpx5hm.jpg"
+},
+  {
+  "name": "Becosules Z Capsule",
+  "brand": "Pfizer Ltd",
+  "form": "capsule",
+  "dosage": "Vitamin B Complex, Vitamin C & Zinc",
+  "price": 59,
+  "stock": 100,
+  "description": "Helps maintain healthy hair, skin, and nails, improves energy levels, supports overall health and metabolism.",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/cropped/jhd9m6kupfxuaqchyebl.jpg"
+},
+  {
+  "name": "Zincofer Nurture Tablet",
+  "brand": "Apex Laboratories Pvt Ltd",
+  "form": "tablet",
+  "dosage": "Multivitamins & Minerals with Calcium & Iron",
+  "price": 184,
+  "stock": 100,
+  "description": "Helps maintain overall health, manages nutritional deficiencies, nourishes body, strengthens immune system.",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/cropped/blge2fbntbi2q0vsossy.jpg"
+},
+  {
+  "name": "Zincovit Tablet with Multivitamin, Multimineral & Grape Seed Extract",
+  "brand": "Apex Laboratories Pvt Ltd",
+  "form": "tablet",
+  "dosage": "Multivitamin, Multimineral & Grape Seed Extract",
+  "price": 99,
+  "stock": 100,
+  "description": "Supports heart & nervous system, has antioxidant effects, boosts immunity, and helps in red blood cell formation.",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/874c73ab2b3747f68d49263ab2c475ca.jpg"
+},
+  {
+    "name": "Patanjali Nutrela DailyActive | For Heart, Eye, Bones & Immunity Capsule",
+  "brand": "Patanjali Foods Limited",
+  "form": "capsule",
+  "dosage": "41 key nutrients - 13 vitamins, 12 minerals, 8 organic herbs, 8 essential amino acids",
+  "price": 303,
+  "discount_percentage": 15,
+  "mrp": 355,
+  "stock": 100,
+  "description": "Supports immune function, maintains heart, brain, bone and eye health, rejuvenates and boosts energy levels.",
+    "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/c55c5bd8788d4e5383eb2ec6064dba09.jpg"
   },
   {
-    "name": "Azithromycin",
-    "brand": "Sun Pharma",
-    "form": "tablet",
-    "dosage": "250mg",
-    "price": 120,
-    "stock": 50,
-    "description": "Antibiotic for infections",
-    "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/cropped/fpxwi4imv9qn4czfkez9.jpg"
-  },
-  {
-    "name": "Ibuprofen",
-    "brand": "Bayer",
-    "form": "tablet",
-    "dosage": "400mg",
-    "price": 35,
-    "stock": 70,
-    "description": "Pain reliever",
-    "image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/5ba5701fcb6c46628c5cff317109886b.jpg"
-  },
-  {
-    "name": "Cough Syrup",
-    "brand": "Dabur",
-    "form": "syrup",
-    "dosage": "10ml",
-    "price": 45,
-    "stock": 60,
-    "description": "For cough relief",
-    "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/a8a595f213a84986a07b39de77228df7.jpg"
-  },
-  {
-    "name": "Vitamin C",
-    "brand": "HealthVit",
-    "form": "tablet",
-    "dosage": "500mg",
-    "price": 25,
-    "stock": 80,
-    "description": "Immune booster",
-    "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/544eaa4f92024c9594adc023f41574fe.jpg"
-  },
-  {
-    "name": "Metformin",
-    "brand": "Sun Pharma",
-    "form": "tablet",
-    "dosage": "500mg",
-    "price": 50,
-    "stock": 90,
-    "description": "Diabetes treatment",
-    "image": "https://5.imimg.com/data5/SELLER/Default/2020/9/AG/PO/PD/109131260/img-20200910-142229-removebg-preview-1000x1000.png"
-  },
-  {
-    "name": "Amoxicillin",
-    "brand": "Cipla",
-    "form": "capsule",
-    "dosage": "500mg",
-    "price": 80,
-    "stock": 40,
-    "description": "Antibiotic",
-    "image": "https://5.imimg.com/data5/SELLER/Default/2022/12/OC/PR/PS/108376694/cipmox-amoxicillin-500mg-capsules-1000x1000.png"
-  },
-  {
-    "name": "Cetirizine",
-    "brand": "Zydus",
-    "form": "tablet",
-    "dosage": "10mg",
-    "price": 15,
-    "stock": 120,
-    "description": "Allergy relief",
-    "image": "https://images.apollo247.in/pub/media/catalog/product/C/E/CET0563_1.jpg?tr=w-264,q-80,f-webp,dpr-1.25,c-at_max"
-  },
-  {
-    "name": "Omeprazole",
-    "brand": "Dr. Reddy's",
-    "form": "capsule",
-    "dosage": "20mg",
-    "price": 45,
-    "stock": 70,
-    "description": "Acid reflux treatment",
-    "image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/sexw0ojgwtx60ma7b0ib.jpg"
-  },
-  {
-    "name": "Dolo 650",
-    "brand": "Micro Labs",
-    "form": "tablet",
-    "dosage": "650mg",
-    "price": 18,
-    "stock": 150,
-    "description": "Pain & fever relief",
-    "image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/mu5bahqxfrp28cut6que.jpg"
-  }
+    "name": "New A to Z Gold Soft Gelatin Capsule with Antioxidants, Multivitamins & Multiminerals",
+    "brand": "Alkem Laboratories Ltd",
+    "form": "Soft gelatin capsule",
+    "dosage": "15 soft gelatin capsules",
+    "price": 200,
+    "stock": 100,
+    "description": "Health supplement with antioxidants, multivitamins and minerals that support a strong and healthy body. Enhances cognitive and cardiovascular abilities, boosts immunity, and protects against free radical damage.",
+    "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/f2033956627540a3805941751e570471.jpg"
+},
+{
+  "name": "Butyron Tablet",
+  "brand": "Butson Bioscience",
+  "form": "tablet",
+  "dosage": "Not specified",
+  "price": 127,
+  "stock": 75,
+  "description": "May help regulate iron levels in the body, regulates folic levels in the body, boosts the immunity of the body.",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/cipgkghzzgxf1f0jrr2s.jpg"
+},
+{
+  "name": "Calcirol 60000IU Softgels",
+  "brand": "Cadila Pharmaceuticals Ltd",
+  "form": "softgel",
+  "dosage": "60000IU",
+  "price": 258,
+  "stock": 40,
+  "description": "Aids the body absorb calcium and phosphorus, strengthens the bones, helps manage symptoms associated with rickets and osteomalacia.",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/158705aa6cc2497fb5dec679cddaf70a.jpg"
+},
+{
+  "name": "VB-Must Tablet",
+  "brand": "Osren Healthcare Pvt Ltd",
+  "form": "tablet",
+  "dosage": "Not specified",
+  "price": 211,
+  "stock": 25,
+  "description": "Helps in the synthesis of neuronal lipids and neurotransmitters, protects nerves from the side effect of drugs, improves pain control and efficacy of physiotherapy in patients with chronic neck pain.",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/7259f2337d9f4454ac804667262d17ca.jpg"
+},
+{
+  "name": "Admol 650 Tablet DT",
+  "brand": "Kepler Health Care",
+  "form": "tablet dt",
+  "dosage": "650mg",
+  "price": 21,
+  "stock": 20,
+  "description": "Helps relieve pain and fever, treats headaches, migraine, toothaches, sore throats, menstrual pains, arthritis, muscle aches, and common cold.",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/zz8ofwcbxqabhjtemz8e.jpg"
+},
+{
+  "name": "Ascazin",
+  "brand": "Apex Laboratories Pvt Ltd",
+  "form": "tablet",
+  "dosage": "Zinc Acetate",
+  "price": 78,
+  "stock": 10,
+  "description": "Enhances immune function, promotes faster wound healing, reduces the size of acne",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/vkamhnslw69v825bapqe.jpg"
+},
+{
+  "name": "Xtracal MD",
+  "brand": "Pulse Pharmaceuticals",
+  "form": "tablet",
+  "dosage": "Calcium, Magnesium, Zinc, Vitamin D3, Methylcobalamin, L-methyl folate, Pyridoxal-5-phosphate",
+  "price": 356,
+  "stock": 15,
+  "description": "Improves absorption of nutrients, may regulate iron levels, supports growth and development, improves bone and teeth health",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/uheuhi00l4rfvxsszaos.jpg"
+},
+{
+  "name": "Iriscomax LC",
+  "brand": "Iriska Pharmaceuticals Pvt Ltd",
+  "form": "tablet",
+  "dosage": "L-carnitine, Methylcobalamin, Vitamin C and E, Zinc, DHA, Proanthocyanidin",
+  "price": 403,
+  "stock": 10,
+  "description": "Aids immunity, boosts cognitive health, promotes RBC development, supports bone and cardiac health",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/tnglkpny6ggjcwhwlsqx.jpg"
+},
+{
+  "name": "Combo Pack of Neurobion Forte Tablet (30) & New Celin 500 Tablet (25)",
+  "brand": "Procter & Gamble Health Ltd & RV LIFESCIENCES LIMITED",
+  "form": "tablet",
+  "dosage": "Vitamin B1, B6, B12, Vitamin C",
+  "price": 80,
+  "stock": 2,
+  "description": "Supports immunity, nerve health, RBC development, collagen synthesis, and overall wellness",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/f1c8b285c50641a48886a1bdf592991d.jpg"
+},
+{
+  "name": "Zindervit Tablet",
+  "brand": "Prevego Healthcare & Research Private Limited",
+  "form": "tablet",
+  "dosage": "Grape seed extract",
+  "price": 170,
+  "stock": 15,
+  "description": "Boosts immunity, supports skin & hair health, antioxidant properties, enhances energy and metabolism",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/8b24c214064443f4967cf6f669c58a8d.jpg"
+},
+{
+  "name": "Zonyo CAL Tablet",
+  "brand": "Crizon Healthcare Pvt Ltd",
+  "form": "tablet",
+  "dosage": "Calcium citrate malate, Vitamin D3, Vitamin K2, Methylcobalamin, Magnesium oxide, Zinc oxide",
+  "price": 253,
+  "stock": 15,
+  "description": "Supports bone & joint health, improves muscle function, boosts calcium absorption, aids collagen synthesis",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/ox2hkh2mef0ybaqndzxb.jpg"
+},
+{ 
+  "name": "Boneva Pro Tablet", 
+  "brand": "Nutrifirm therapeutics", 
+  "form": "tablet", 
+  "dosage": "Calcium (200mg) + Calcitriol (0.25mcg) + Pyridoxal-5-phosphate (0.5mg) + Methylcobalamin (1500mcg) + L-Methyl Folate (1mg) + Zinc (7.5mg) + Magnesium (50mg)", 
+  "price": 186, 
+  "stock": 10, 
+  "description": "Supports bone and joint health with calcium, vitamin D3, B vitamins, and minerals.", 
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/aylywji1yvymbbupsnje.jpg" 
+},
+{ 
+  "name": "Dolo 500 Tablet", 
+  "brand": "Micro Labs", 
+  "form": "tablet", 
+  "dosage": "Paracetamol (500mg)", 
+  "price": 12, 
+  "stock": 15, 
+  "description": "Pain & fever relief", 
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/plotopezwmczsrdyy3nq.jpg" 
+},
+{ 
+  "name": "Arden 650mg Tablet", 
+  "brand": "Adonis Laboratories Pvt Ltd", 
+  "form": "tablet", 
+  "dosage": "Paracetamol (650mg)", 
+  "price": 32, 
+  "stock": 15, 
+  "description": "Pain & fever relief", 
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/drwkwpewcxmg4vdc2fpi.jpg" 
+},
+{
+  "name": "Dencium ND3 Tablet",
+  "brand": "Pulse Pharmaceuticals",
+  "form": "tablet",
+  "dosage": "Vitamin D3, Calcium",
+  "price": 165,
+  "stock": 10,
+  "description": "Vitamin D3 and Calcium supplement for bone health and metabolism",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/zvvxzgaqs9qx8edg5e5c.jpg"
+},
+
+{
+  "name": "Crizin Chewable Tablet",
+  "brand": "Crizon Healthcare Pvt Ltd",
+  "form": "Chewable Tablet",
+  "dosage": "Vitamin C, Vitamin D3, Zinc, Amla extract",
+  "price": 155,
+  "stock": 10,
+  "description": "Vitamin C helps boost immunity, supports joints, bones, and muscles, improves the immune system, reduces stress, fatigue, and muscular pains.",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/takfy4njnjhh8djdm3ef.jpg"
+},
+{
+  "name": "Cipcal D3 (Cholecalciferol) Granules for Bone, Joint and Muscle Health",
+  "brand": "Cipla Ltd",
+  "form": "Granules",
+  "dosage": "Cholecalciferol (Vitamin D3)",
+  "price": 24,
+  "stock": 10,
+  "description": "Helps increase calcium absorption, aids bone growth and development, maintains blood calcium and phosphorus levels, supports bone and joint health, reduces fatigue and stress, improves immunity, and helps muscle health.",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/f71ea55f57ba4f1eaa2d3b5f3e590ef7.jpg"
+},
+{
+  "name": "Combo Pack of Cipcal 500 Tablet (15) & Neurobion Forte Tablet (30)",
+  "brand": "Cipla Ltd & Procter & Gamble Health Ltd",
+  "form": "Tablet",
+  "dosage": "Cipcal 500 Tablet: Elemental Calcium 500 mg, Vitamin D3 250 IU; Neurobion Forte Tablet: Vitamin B1 10 mg, B6 3 mg, B12 15 mcg",
+  "price": 109,
+  "stock": 10,
+  "description": "Supports energy levels, improves nutritional deficiencies, promotes overall health, helps relieve fatigue, supports bone and nerve health, and manages numbness and tingling sensations.",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/usd56t3gsxyajdcxn8pt.jpg"
+},
+
+{ 
+  "name": "Ovopag-F Tablet", 
+  "brand": "La Renon Healthcare Pvt Ltd", 
+  "form": "tablet", 
+  "dosage": "10 tablets per strip", 
+  "price": 266, 
+  "stock": 100, 
+  "description": "Nutraceutical supplement supporting female reproductive health by reducing oxidative stress and enhancing ovarian response.", 
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/791ff3f1fb0348f495302b212c41bd8c.jpg" 
+},
+{ 
+  "name": "Sonne-D3 Nano Shot Mango Sugar Free", 
+  "brand": "Vitalae Healthcare", 
+  "form": "oral solution", 
+  "dosage": "5 ml", 
+  "price": 84, 
+  "stock": 100, 
+  "description": "Vitamin D3 oral solution supporting bone health, immunity, and calcium absorption, with a sugar-free mango flavor.", 
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/mcc6zgaxhbr8k5y8zybi.jpg" 
+},
+{ 
+  "name": "Arepar 250mg Oral Suspension", 
+  "brand": "Aeryn Lifesciences Pvt Ltd", 
+  "form": "oral suspension", 
+  "dosage": "250mg/5ml", 
+  "price": 34, 
+  "stock": 27, 
+  "description": "Pain reliever and fever reducer for children, effective against headache, toothache, body aches, fever, and cold symptoms. Contains paracetamol and should be used as directed by a doctor.", 
+  "image": "ps://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/mcc6zgaxhbr8k5y8zybi.jpg" 
+},
+{ 
+  "name": "GP 650 Tablet", 
+  "brand": "Genial Lifecare", 
+  "form": "tablet", 
+  "dosage": "650mg", 
+  "price": 29, 
+  "stock": 55, 
+  "description": "Pain reliever and fever reducer containing paracetamol. Used for headaches, toothaches, body aches, fever, sore throats, menstrual pain, arthritis, and muscle pain. Should be taken with food and as prescribed by a doctor.", 
+  "image": "ps://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/mcc6zgaxhbr8k5y8zybi.jpg" 
+},
+{ 
+  "name": "Zincofer Liquid", 
+  "brand": "Apex Laboratories Pvt Ltd", 
+  "form": "syrup", 
+  "dosage": "200 ml", 
+  "price": 144, 
+  "stock": 35, 
+  "description": "Haematinic syrup used to prevent and treat iron deficiency anemia. Contains Ferric Ammonium Chloride, Nicotinamide, Pyridoxine Hydrochloride, Cyanocobalamin, and Zinc Sulphate. Helps improve oxygen supply, reduce fatigue, and support normal growth and development.", 
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/cropped/xyq23ch6ms0lrtz5mziw.jpg" 
+},
+{ 
+  "name": "NuROKIND Forte Z Tablet", 
+  "brand": "Mankind Pharma Ltd", 
+  "form": "tablet", 
+  "dosage": "15 tablets per strip", 
+  "price": 118, 
+  "stock": 21, 
+  "description": "A multivitamin and mineral tablet that helps improve immunity, supports overall health, and enhances vitality. Contains Mecobalamin, Zinc Sulphate Monohydrate, Pyridoxine Hydrochloride, Folic Acid, Niacinamide, and Chromium Picolinate. Supports memory, eye and heart health, and joint flexibility.", 
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/b1321d7851034c69a31f08e7529d4622.jpg" 
+},
+{
+  "name": "Gatmol 650mg Tablet",
+  "brand": "Gatlen Biotech",
+  "form": "tablet",
+  "dosage": "650 mg",
+  "price": 14,
+  "stock": 22,
+  "description": "Analgesic and antipyretic used for pain relief and fever reduction. Contains Paracetamol, effective in treating headaches, migraine, toothache, sore throat, menstrual pain, arthritis, muscle aches, and cold symptoms. Works by blocking the release of chemical messengers responsible for pain and fever.",
+  "image": "://onemg.gumlet.io/image/upload/w_120,h_120,c_fit,q_auto,f_auto/gatmol-650mg-tablet.jpg"
+},
+{
+  "name": "Pamoral 650 Tablet",
+  "brand": "Foral Healthcare",
+  "form": "tablet",
+  "dosage": "650 mg",
+  "price": 14,
+  "stock": 99,
+  "description": "Analgesic and antipyretic medicine used for relieving pain and reducing fever. Contains Paracetamol, effective for headaches, migraine, toothaches, sore throats, menstrual pains, arthritis, muscle aches, and cold symptoms. Works by blocking chemical messengers responsible for pain and fever.",
+  "image": "s://onemg.gumlet.io/image/upload/w_120,h_120,c_fit,q_auto,f_auto/pamoral-650-tablet.jpg"
+},
+{
+  "name": "Poreheal Max Tablet",
+  "brand": "Renata Healthcare",
+  "form": "tablet",
+  "dosage": "15 tablets per strip",
+  "price": 210,
+  "stock": 40,
+  "description": "Dietary supplement to strengthen bones, improve absorption of vitamins & minerals, enhance neurological health, and stimulate production of healthy red blood cells.",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/ryyko0ttogm3n6juema8.jpg"
+},
+{
+  "name": "Scorbamin Capsule",
+  "brand": "Semiotic Pharmaceutical Private Limited",
+  "form": "capsule",
+  "dosage": "10 capsules per strip",
+  "price": 89,
+  "stock": 55,
+  "description": "Dietary supplement containing DHA, folic acid, and cyanocobalamin to manage vitamin B12 deficiency, support nervous system health, and aid red blood cell formation.",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/736a4c569af44806ae2dad1136c3d3f6.jpg"
+},
+{
+  "name": "Fagmol Oral Suspension",
+  "brand": "Pritus Healthcare",
+  "form": "oral suspension",
+  "dosage": "250 mg/5 ml",
+  "price": 38,
+  "stock": 25,
+  "description": "Pain relief and fever-reducing medicine for children, containing Paracetamol. Helps treat headache, toothache, body aches, fever, and common cold symptoms.",
+  "image": "s://onemg.gumlet.io/image/upload/w_120,h_120,c_fit,q_auto,f_auto/fagmol-oral-suspension.jpg"
+},
+{
+  "name": "Pardifen 650mg Tablet",
+  "brand": "Spey Medical Pvt Ltd",
+  "form": "tablet",
+  "dosage": "650 mg",
+  "price": 18,
+  "stock": 88,
+  "description": "Pain relief and fever-reducing medicine containing Paracetamol. Helps treat headache, migraine, toothache, sore throat, period pains, arthritis, muscle aches, and common cold symptoms.",
+  "image": "tps://onemg.gumlet.io/image/upload/w_120,h_120,c_fit,q_auto,f_auto/pardifen-650mg-tablet.jpg"
+},
+{
+  "name": "Cpink Oral Suspension",
+  "brand": "Cipla Ltd",
+  "form": "oral suspension",
+  "dosage": "200 ml",
+  "price": 271,
+  "stock": 55,
+  "description": "Health supplement with folic acid and ferrous ascorbate that boosts iron levels naturally, helps maintain iron levels, prevents deficiencies, and promotes energy.",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/p8okigrzjri6ojiub2am.jpg"
+},
+{
+  "name": "Cobadex Czs Tablet",
+  "brand": "Glaxo SmithKline Pharmaceuticals Ltd",
+  "form": "tablet",
+  "dosage": "Pyridoxine Hydrochloride (3mg) + Nicotinamide (100mg) + Cyanocobalamin (15mcg) + Folic Acid (1500mcg) + Chromium Picolinate (250mcg) + Selenious acid (100mcg) + Zinc Sulphate Monohydrate (61.8mg)",
+  "price": 106,
+  "stock": 66,
+  "description": "A multivitamin and mineral nutritional supplement used to treat or prevent vitamin and mineral deficiencies, support overall health, immunity, metabolism, and improve energy levels.",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/vxwhrkokwtotqlnjvy3o.jpg"
+},
+{
+  "name": "Synetical-HD Tablet",
+  "brand": "Synetic Healthcare",
+  "form": "tablet",
+  "dosage": "Aquamin + Vitamin D3",
+  "price": 251,
+  "stock": 98,
+  "description": "A nutritional supplement tablet that helps improve bone and muscle health, supports gut health, boosts immunity, and reduces weakness associated with nutritional deficiencies.",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/ittutwwvdminbufyho3n.jpg"
+},
+{
+  "name": "Betadine Germicide Gargle 2% Mint",
+  "brand": "Win-Medicare Pvt Ltd",
+  "form": "gargle/mouthwash",
+  "composition": "Povidone Iodine (2% w/v)",
+  "price": 301,
+  "stock": 77,
+  "description": "An antiseptic mouthwash used to kill germs causing mouth and throat infections. Helps treat sore throat, mouth infection, wound infection, and dry mouth.",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/6621997575614d47b039b9918d315739.jpg"
+},
+{
+  "name": "Antimol 650 Tablet DT",
+  "brand": "Giriraj Healthcare",
+  "form": "tablet dt",
+  "composition": "Paracetamol (650mg)",
+  "price": 14,
+  "stock": 25,
+  "description": "A pain relief and fever reducing tablet used for headaches, migraine, toothache, sore throat, menstrual pain, arthritis, muscle aches, and common cold.",
+  "image": "tps://onemg.gumlet.io/image/upload/w_120,h_120,c_fit,q_auto,f_auto/antimol-650-tablet-dt.jpg"
+},
+{
+  "name": "Ancifev 650 Tablet",
+  "brand": "Ancient Life Sciences",
+  "form": "tablet",
+  "composition": "Paracetamol (650mg)",
+  "price": 15,
+  "stock": 25,
+  "description": "A pain relief and fever reducing tablet used for headaches, migraine, toothache, sore throat, menstrual pain, arthritis, muscle aches, and common cold.",
+  "image": "hs://onemg.gumlet.io/image/upload/w_120,h_120,c_fit,q_auto,f_auto/ancifev-650-tablet.jpg"
+},
+{
+  "name": "Zincofer-XT Tablet",
+  "brand": "Apex Laboratories Pvt Ltd",
+  "form": "tablet",
+  "composition": "Iron, Folic Acid, Zinc",
+  "price": 125,
+  "stock": 25,
+  "description": "A nutritional supplement tablet that helps maintain healthy red blood cells, prevents anemia, and supports brain health. Ideal for managing anemia during pregnancy and lactation, neurological disorders, and pre-post natal weakness.",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/cropped/curjnboz5v7iecdg5ys9.jpg"
+},
+{
+  "name": "Vlado's Himalayan Organics ZMA Vegetarian Tablet",
+  "brand": "Vlado Sky Enterprise Pvt. Ltd.",
+  "form": "tablet",
+  "composition": "Zinc, Magnesium, Vitamin B6, Starch, MCCP, Dicalcium phosphate, Talcum, Sodium starch glycolate, Magnesium stearate, Titanium dioxide, Cross carmellose, Sodium",
+  "price": 709,
+  "stock": 66,
+  "description": "A nutrient supplement tablet that boosts muscle growth, endurance, and promotes muscle recovery. Supports muscle mass growth, energy creation, neuromuscular functions, and sleep quality.",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/bd594ef78a6642c393a19861e9fc3785.jpg"
+},
+{
+  "name": "Becozinc Capsule",
+  "brand": "Dr Reddy's Laboratories Ltd",
+  "form": "capsule",
+  "composition": "Vitamin B2 (Riboflavin) 10 mg, Vitamin B9 (Folic Acid) 1 mg, Thiamine Mononitrate 10 mg, Vitamin C (Ascorbic Acid) 150 mg, Zinc Sulphate Monohydrate 54.93 mg, Vitamin B3 (Niacin) 50 mg, Calcium Pantothenate, Vitamin B12 (Mecobalamin) 15 mcg, Vitamin B6 (Pyridoxine) 3 mg",
+  "price": 54,
+  "stock":55,
+  "description": "A vitamin and mineral supplement capsule that helps overcome deficiencies, boosts immunity, aids in growth of healthy cells, and supports normal growth and development.",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/m30utz6niplabbwyqfyn.jpg"
+},
+{
+  "name": "Fevago DS Suspension",
+  "brand": "Cipla Ltd",
+  "form": "oral suspension",
+  "composition": "Paracetamol 250 mg/5 ml",
+  "price": 42,
+  "stock": 15,
+  "description": "An analgesic and antipyretic suspension for children that helps ease pain and reduce fever. Used for headaches, toothache, body aches, fever, and common cold. Should be given as directed by a doctor.",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/ddjpylibefqi8se5cnzw.jpg"
+},
+{
+  "name": "Nikmol 650 Tablet",
+  "brand": "Niktech Healthcare",
+  "form": "tablet",
+  "composition": "Paracetamol 650 mg",
+  "price": 14,
+  "stock": 8,
+  "description": "A painkiller and fever reducer used to treat headaches, migraines, toothaches, sore throats, menstrual pains, arthritis, muscle aches, and the common cold. Best taken with food to prevent stomach upset.",
+  "image": "hts://onemg.gumlet.io/image/upload/w_120,h_120,c_fit,q_auto,f_auto/nikmol-650-tablet.jpg"
+},
+{
+  "name": "Easi Breathe Inhalant Capsules",
+  "brand": "Cipla Ltd",
+  "form": "inhalant capsule",
+  "composition": "Camphor 25 mg",
+  "price": 52,
+  "stock": 94,
+  "description": "Used for relief from blocked nose, cold, congestion, heaviness in head, itching, inflammation, and pain. Increases blood flow and local temperature of the affected area for temporary relief. Should be used as directed by a doctor.",
+  "image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/1c7858b10aac4a389e29e5bfeca1895b.jpg"
+},
+{
+  "name": "Gigamol Oral Suspension",
+  "brand": "Trubeca Lifesciences",
+  "form": "oral suspension",
+  "composition": "Paracetamol 250 mg",
+  "price": 38,
+  "stock": 24,
+  "description": "A pain-relieving and fever-reducing suspension for children that helps ease headache, toothache, body aches, fever, and common cold. Should be given as directed by a doctor, preferably after food.",
+  "image": "onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/b4mwpaedxzequoty5lfw.jpg"
+}
+
+
 ]
